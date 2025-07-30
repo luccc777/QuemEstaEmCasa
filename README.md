@@ -105,7 +105,9 @@ Modo CLI para servidores headless.
 
 ---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Lucas Souza
+
 <a href="https://www.linkedin.com/in/lucas-souza-6ba25b219/"><img src="https://img.shields.io/badge/-Lucas%20Souza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 Projeto de portfólio para demonstrar habilidades em redes, interfaces e JavaFX.
