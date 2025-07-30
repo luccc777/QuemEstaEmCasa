@@ -92,7 +92,7 @@ java --module-path C:\javafx-sdk-21\lib --add-modules javafx.controls,javafx.fxm
 
 ---
 
-💡 Possíveis Melhorias Futuras
+## 💡 Possíveis Melhorias Futuras
 Exportar os resultados para CSV ou JSON.
 
 Rodar escaneamento contínuo em background.
@@ -107,7 +107,5 @@ Modo CLI para servidores headless.
 
 👨‍💻 Autor
 Lucas Souza
-  <a href="https://github.com/luccc777">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luccc777&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://www.linkedin.com/in/lucas-souza-6ba25b219/"><img src="https://img.shields.io/badge/-Lucas%20Souza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 Projeto de portfólio para demonstrar habilidades em redes, interfaces e JavaFX.
