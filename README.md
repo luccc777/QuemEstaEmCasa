@@ -4,7 +4,7 @@
 ![Imagem principal do programa](https://github.com/luccc777/QuemEst-/blob/main/programa.jpg)
 
 ---
-##✨ Destaques
+## ✨ Destaques
 ⚡ Escaneia toda a sub-rede local rapidamente.
 
 🔍 Exibe IP, MAC, nome e uma descrição inteligente do tipo de dispositivo.
