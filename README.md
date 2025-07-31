@@ -1,7 +1,7 @@
 # 👀 Quem Está em Casa?
 "Quem Está em Casa?" é um aplicativo de scanner de rede local com interface gráfica desenvolvido em JavaFX. Ele permite detectar todos os dispositivos conectados à rede, identificar possíveis tipos de dispositivos com base em portas abertas e endereços MAC, e exibir as informações de forma visual, intuitiva e agradável. É ideal para quem quer entender quem está conectado ao Wi-Fi — seja em casa, em uma empresa ou laboratório.
 
-![Imagem principal do programa](https://github.com/luccc777/QuemEst-/blob/main/programa.jpg)
+![Imagem principal do programa](https://github.com/luccc777/QuemEstaEmCasa/blob/main/programa.jpg)
 
 ---
 ## ✨ Destaques
