@@ -76,7 +76,6 @@ public class RedeScanner {
 	        while ((linha = reader.readLine()) != null) {
 	            linha = linha.trim();
 
-	            // Tenta capturar IP e MAC (Windows)
 	            if (linha.matches(".*\\d+\\.\\d+\\.\\d+\\.\\d+.*")) {
 	                String[] partes = linha.split("\\s+");
 
@@ -141,7 +140,6 @@ public class RedeScanner {
 	        } catch (Exception ignored) {}
 	    }
 
-	    // Heurísticas baseadas nas portas abertas
 	    if (portasAbertas.contains(554)) {
 	        return "Possível Câmera IP (RTSP na porta 554)";
 	    }
@@ -182,7 +180,6 @@ public class RedeScanner {
 	        return "Servidor com VNC remoto (porta 5900)";
 	    }
 
-	    // Verificação por prefixo MAC
 	    if (mac != null && !mac.isEmpty()) {
 	        try {
 	            String prefixo = mac.toUpperCase().replace(":", "").substring(0, 6);
